@@ -1,7 +1,7 @@
 import { WebsiteInfo } from '../../types';
 
 export const websiteInfo: WebsiteInfo = {
-  name: "waleed lohar",
+  name: "delvee",
   slogan: "2D and 3D Game Developer",
   logo: "/images/assests/logo.png",
   favicon: "/images/assests/logo.png",
@@ -9,7 +9,7 @@ export const websiteInfo: WebsiteInfo = {
   instagram : "d" , 
   mail      : "experts@gmail.com" ,
   facebook : "h"  ,
-  phone  : "+92 344 4675899" , 
+  phone  : "+92 300 100000890" , 
   
 
 };

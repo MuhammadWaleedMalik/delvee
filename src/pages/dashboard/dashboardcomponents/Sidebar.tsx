@@ -5,7 +5,7 @@ const Sidebar = () => {
     <aside className="w-64 bg-gray-900 text-white h-full shadow-lg">
       {/* Logo / Branding */}
       <div className="p-6 border-b border-gray-700">
-        <h1 className="text-2xl font-bold tracking-wide">Tourmaline</h1>
+        <h1 className="text-2xl font-bold tracking-wide">DelveeApi</h1>
       </div>
 
       {/* Navigation */}

@@ -1,7 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
 import Layout from './dashboard/dashboardcomponents/Layout.tsx';
 import Dashboard from './dashboard/Dashboard.tsx';
-import Users from './dashboard/Users.tsx';
+// import Users from './dashboard/Users.tsx';
+import Users from './dashboard/dashboardcomponents/Users.tsx';
 import Pricing from './dashboard/Pricing.tsx';
 import React from 'react';
 
