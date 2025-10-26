@@ -1,0 +1,34 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "home": "首页",
+    "findData": "查找数据",
+    "people": "人员",
+    "library": "图书馆",
+    "news": "新闻",
+    "projectCatalog": "项目目录",
+    "about": "关于",
+    "contribute": "贡献",
+    "login": "登录",
+    "signup": "注册",
+    "logout": "退出"
+  },
+  "languageSelector": {
+    "heading": "语言",
+    "changeLanguageLabel": "更改语言"
+  },
+  "banner": {
+    "text": "项目目录现已上线 - 探索过去和现在的ASM举措",
+    "learnMore": "了解更多"
+  },
+  "mainContent": {
+    "platformText": "手工与小规模采矿数据的全球平台",
+    "learnMore": "了解更多",
+    "globalNumber": "全球从事ASM*的人数",
+    "seeData": "查看全球ASM数据",
+    "womenText": "从事ASM*的女性",
+    "menText": "从事ASM*的男性",
+    "footnote": "*基于平台内最新和最可靠的数据来源。",
+    "learnMoreLink": "了解更多"
+  }
+}

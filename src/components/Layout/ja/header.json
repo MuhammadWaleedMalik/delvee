@@ -1,0 +1,34 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "home": "ホーム",
+    "findData": "データ検索",
+    "people": "人々",
+    "library": "図書館",
+    "news": "ニュース",
+    "projectCatalog": "プロジェクトカタログ",
+    "about": "約",
+    "contribute": "貢献",
+    "login": "ログイン",
+    "signup": "登録",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "heading": "言語",
+    "changeLanguageLabel": "言語を変更"
+  },
+  "banner": {
+    "text": "プロジェクトカタログがライブに - 過去および現在のASMイニシアチブを発見",
+    "learnMore": "もっと学ぶ"
+  },
+  "mainContent": {
+    "platformText": "手工および小規模鉱業データのグローバルプラットフォーム",
+    "learnMore": "もっと学ぶ",
+    "globalNumber": "ASM*で働く人のグローバル数",
+    "seeData": "グローバルASMデータを見る",
+    "womenText": "ASM*で働く女性",
+    "menText": "ASM*で働く男性",
+    "footnote": "*プラットフォーム内の最新かつ信頼できるデータソースに基づく。",
+    "learnMoreLink": "もっと学ぶ"
+  }
+}

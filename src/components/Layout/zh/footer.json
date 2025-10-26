@@ -1,0 +1,39 @@
+{
+  "disclaimer": {
+    "text": "Delve平台第1版中呈现的数据来自二手来源，并反映了ASM行业的数据可用性。并非所有数据、国家和矿物均已表示。数据将根据ASM全球数据差距的持续填补而逐步添加。帮助我们填补这些差距。"
+  },
+  "sections": [
+    {
+      "title": "全球数据",
+      "links": [
+        { "path": "/features", "label": "全球数据" },
+        { "path": "/about", "label": "目录" }
+      ]
+    },
+    {
+      "title": "治理",
+      "links": [
+        { "path": "/donate", "label": "订阅" },
+        { "path": "/teams", "label": "合作伙伴" }
+      ]
+    },
+    {
+      "title": "资源",
+      "links": [
+        { "path": "/blogs", "label": "资源" },
+        { "path": "/contact", "label": "联系我们" }
+      ]
+    },
+    {
+      "title": "关于",
+      "links": [
+        { "path": "/about", "label": "关于" },
+        { "path": "/blogs", "label": "新闻与活动" },
+        { "path": "/privacy", "label": "隐私政策" }
+      ]
+    }
+  ],
+  "copyright": {
+    "text": "© "
+  }
+}

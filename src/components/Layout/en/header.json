@@ -1,0 +1,34 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "home": "Home",
+    "findData": "Find Data",
+    "people": "People",
+    "library": "Library",
+    "news": "News",
+    "projectCatalog": "Project Catalog",
+    "about": "About",
+    "contribute": "Contribute",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "languageSelector": {
+    "heading": "Languages",
+    "changeLanguageLabel": "Change Language"
+  },
+  "banner": {
+    "text": "Project Catalog is Live - Discover past and present ASM initiatives",
+    "learnMore": "Learn More"
+  },
+  "mainContent": {
+    "platformText": "A Global Platform for Artisanal & Small Scale Mining Data",
+    "learnMore": "Learn More",
+    "globalNumber": "Global Number of People Working in ASM*",
+    "seeData": "See Global ASM Data",
+    "womenText": "Women Working in ASM*",
+    "menText": "Men Working in ASM*",
+    "footnote": "*Based on the most recent and reliable data sources within platform.",
+    "learnMoreLink": "Learn More"
+  }
+}

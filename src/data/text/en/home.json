@@ -1,0 +1,182 @@
+
+{
+  "page1": {
+    "title": "A Global Platform for Artisanal & Small Scale Mining Data",
+    "stats": [
+      {
+        "number": "44,680,000",
+        "label": "A Global Platform for Artisanal & Small Scale Mining Data",
+        "icon": "👥"
+      },
+      {
+        "number": "30%",
+        "label": "Women Working in ASM*",
+        "icon": "👩"
+      },
+      {
+        "number": "70%",
+        "label": "Men Working in ASM*",
+        "icon": "👨"
+      },
+      {
+        "number": "80+",
+        "label": "Countries with ASM Data",
+        "icon": "🌎"
+      }
+    ],
+    "learnMoreLink": {
+      "text": "Learn More",
+      "to": "/learn-more"
+    },
+    "dataSourceNote": "*Based on the most recent and reliable data sources within platform. Learn More"
+  } ,
+
+  "page2": {
+    "title": "Key Initiatives & Projects",
+    "slides": [
+      {
+        "title": "Sustainable Mining Practices",
+        "description": "Promoting environmentally responsible and sustainable mining practices across artisanal and small-scale mining operations worldwide.",
+        "cta": {
+          "text": "Explore Initiative",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "Gender Equality in Mining",
+        "description": "Empowering women in artisanal and small-scale mining through education, training, and equitable policy development.",
+        "cta": {
+          "text": "Learn More",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "Formalization Programs",
+        "description": "Supporting the formalization of artisanal and small-scale mining to improve working conditions and economic outcomes.",
+        "cta": {
+          "text": "See Programs",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      },
+      {
+        "title": "Market Access Initiatives",
+        "description": "Creating better market access and fair pricing for minerals extracted through artisanal and small-scale mining.",
+        "cta": {
+          "text": "Explore Markets",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      }
+    ]
+  },
+  "page3": {
+    "title": "Search ",
+    "placeholder": "Enter search terms (e.g., country, mineral, topic)"
+  },
+  "page4": {
+    "title": "News and Events",
+    "description": "Recently added and updated datasets from our global network of partners and researchers.",
+    "items": [
+      {
+        "title": "Gold Production Metrics 2023",
+        "date": "Sept 15, 2024"
+      },
+      {
+        "title": "Gender Analysis in DRC Mining",
+        "date": "Sept 10, 2024"
+      },
+      {
+        "title": "Environmental Impact Assessment",
+        "date": "Sept 5, 2024"
+      },
+      {
+        "title": "Economic Contribution Study",
+        "date": "Aug 28, 2024"
+      }
+    ]
+  },
+  "page5": {
+    "title": "Collaborating for Improved Transparency",
+    "description": "The World Bank envisions a world in which artisanal and small-scale mining is recognized as an important contributor to global development.\n\nIn order to achieve this goal, we must work together to promote better sharing of knowledge and data.\n\nJoin us in commitment to improve the quality, availability and accessibility of data in the ASM sector.",
+    "cta": {
+      "text": "See Gaps in Data",
+      "to": "/features"
+    },
+    "resources": [
+      {
+        "title": "Achieving Sustainable and Inclusive Artisanal and Small-Scale Mining (ASM): A Renewed Framework for World Bank Engagement",
+        "date": "Sep 20, 2024"
+      },
+      {
+        "title": "Artisanal and Small-Scale Copper Mining in Peru",
+        "date": "Jul 10, 2024"
+      },
+      {
+        "title": "Land tenure insecurity and formalizing land rights in Madagascar: A gender perspective on the certification program",
+        "date": "Jul 10, 2024"
+      },
+      {
+        "title": "Mercury contamination associated with small-scale gold mining in Tanzania and Zimbabwe",
+        "date": "Jul 10, 2024"
+      }
+    ]
+  },
+  "page6": {
+    "title": "Implementers",
+    "implementers": [
+      {
+        "name": "World Bank",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "UNDP",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/EGPS-logo-full-color.png"
+      }
+    ]
+  },
+  "page7": {
+    "title": "Partners",
+    "partners": [
+      {
+        "name": "Partner 1",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/pact-logo.png"
+      },
+      {
+        "name": "Partner 2",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/responsible-minerals-initiative-logo.svg"
+      },
+      {
+        "name": "Partner 3",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/OECD_logo_new.svg"
+      },
+      {
+        "name": "Partner 4",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/1024px-University_of_Surrey_Logo.svg"
+      },
+      {
+        "name": "Partner 5",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/USGS_logo.png"
+      },
+      {
+        "name": "Partner 6",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/agc-logo.png"
+      },
+      {
+        "name": "Partner 7",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/kobo_logo_dark1.2.png"
+      },
+      {
+        "name": "Partner 8",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/grantham-logo.png"
+      }
+    ]
+  },
+  "page8": {
+    "title": "Stay Updated with Our Latest Research",
+    "placeholder": "Enter your email address",
+    "buttonText": "Subscribe"
+  }
+}

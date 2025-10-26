@@ -1,0 +1,39 @@
+{
+  "disclaimer": {
+    "text": "The data presented in this Version 1 of the Delve platform are from secondary sources and reflect data availability on the ASM sector. All data, countries and minerals are not yet represented. Data will be added on an ongoing basis as the global data gap on ASM continues to be filled. Help us fill the gaps."
+  },
+  "sections": [
+    {
+      "title": "Global Data",
+      "links": [
+        { "path": "/features", "label": "Global Data" },
+        { "path": "/about", "label": "Directory" }
+      ]
+    },
+    {
+      "title": "Governance",
+      "links": [
+        { "path": "/donate", "label": "Subscribe" },
+        { "path": "/teams", "label": "Partners" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "links": [
+        { "path": "/blogs", "label": "Resources" },
+        { "path": "/contact", "label": "Contact" }
+      ]
+    },
+    {
+      "title": "About",
+      "links": [
+        { "path": "/about", "label": "About" },
+        { "path": "/blogs", "label": "News & Events" },
+        { "path": "/privacy", "label": "Privacy Policy" }
+      ]
+    }
+  ],
+  "copyright": {
+    "text": "© "
+  }
+}

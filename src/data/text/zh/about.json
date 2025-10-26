@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "关于我们",
+    "description": "{website.name} 始于2020年初，由世界银行发起，旨在解决手工艺和小规模采矿 (ASM) 的关键数据缺口。成立时秉持透明和协作的承诺，Delve 致力于革新全球ASM数据的访问方式。从一个整合可靠数据的倡议开始，已发展成为一个利用先进技术赋能研究人员、政策制定者和社区的强大平台。今天，{website.name} 已成为全球枢纽，提供无缝的解决方案来整合ASM数据，促进可持续实践，并解锁发展洞见。在 {website.name}，我们致力于通过可访问、高质量的数据，将ASM转化为全球发展的认可贡献者。"
+  },
+  "team": {
+    "members": [
+      {
+        "name": "世界银行团队",
+        "title": "主要实施者",
+        "bio": "世界银行领导 {website.name} 倡议，凭借在全球发展和数据管理方面的数十年经验，致力于提升ASM数据可访问性并支持全球可持续采矿实践。",
+        "image": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "ASM专家小组",
+        "title": "技术顾问",
+        "bio": "由Pact、OECD和手工黄金委员会等合作伙伴的专家组成，ASM专家小组确保平台的技术稳健性和与全球ASM挑战的协调，指导数据收集和分析。",
+        "image": "https://via.placeholder.com/200x200?text=ASM+Expert+Panel"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "我们的旅程",
+        "description": "{website.name} 始于2020年初，由世界银行发起，旨在解决手工艺和小规模采矿 (ASM) 的关键数据缺口。成立时秉持透明和协作的承诺，Delve 致力于革新全球ASM数据的访问方式。从一个整合可靠数据的倡议开始，已发展成为一个利用先进技术赋能研究人员、政策制定者和社区的强大平台。今天，{website.name} 已成为全球枢纽，提供无缝的解决方案来整合ASM数据，促进可持续实践，并解锁发展洞见。在 {website.name}，我们致力于通过可访问、高质量的数据，将ASM转化为全球发展的认可贡献者。",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "我们的使命",
+        "description": "通过先进技术提供无与伦比的ASM数据和资源访问，转变全球对ASM的理解。在 {website.name}，我们赋能利益相关者将ASM数据转化为可操作的洞见，支持性别平等、环境可持续性和经济增长，同时通过社区贡献填补数据缺口。",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "我们的愿景",
+        "description": "领导ASM数据驱动全球发展的未来，创造一个每个采矿社区都可见且受支持的世界。{website.name} 渴望成为智能、不断演进的ASM生态系统的决定性平台，促进80多个国家及以上的透明度和创新。",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      },
+      {
+        "title": "不懈创新",
+        "description": "我们不断通过搜索功能、项目目录和数据可视化等尖端工具增强平台，适应数据科学和可持续采矿实践的新趋势。",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "社区中心赋能",
+        "description": "我们优先考虑了解ASM社区需求，提供数据贡献和访问工具，促进矿工、研究人员和政策制定者的增长与包容性。"
+      },
+      {
+        "title": "适应性进化",
+        "description": "我们适应不断变化的ASM格局，纳入新的数据来源和技术，应对疫情影响和环境挑战。"
+      },
+      {
+        "title": "核心协作",
+        "description": "我们与Pact、USGS和圭亚那女性矿工组织等全球合作伙伴合作，构建协作生态系统，增强数据共享和联合倡议。"
+      },
+      {
+        "title": "可持续性与影响",
+        "description": "我们专注于可持续数据实践，支持绿色采矿倡议，通过知情政策和社区驱动的洞见减少环境影响。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "通过 {website.name} 提升ASM洞见",
+    "description": "利用我们的平台访问全球ASM数据，贡献您的洞见，与专家合作，同时促进可持续采矿实践。今天连接以获得最大影响。",
+    "linkText": "立即加入 {website.name} 社区!"
+  }
+}

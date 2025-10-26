@@ -1,0 +1,180 @@
+{
+  "page1": {
+    "title": "手工艺与小规模采矿数据的全球平台",
+    "stats": [
+      {
+        "number": "44,680,000",
+        "label": "手工艺与小规模采矿数据的全球平台",
+        "icon": "👥"
+      },
+      {
+        "number": "30%",
+        "label": "ASM中工作的女性*",
+        "icon": "👩"
+      },
+      {
+        "number": "70%",
+        "label": "ASM中工作的男性*",
+        "icon": "👨"
+      },
+      {
+        "number": "80+",
+        "label": "拥有ASM数据的国家",
+        "icon": "🌎"
+      }
+    ],
+    "learnMoreLink": {
+      "text": "了解更多",
+      "to": "/learn-more"
+    },
+    "dataSourceNote": "*基于平台内最新且可靠的数据来源。了解更多"
+  },
+  "page2": {
+    "title": "关键倡议与项目",
+    "slides": [
+      {
+        "title": "可持续采矿实践",
+        "description": "在全球范围内推广环境负责和可持续的采矿实践，涵盖手工艺和小规模采矿作业。",
+        "cta": {
+          "text": "探索倡议",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "采矿中的性别平等",
+        "description": "通过教育、培训和公平政策发展，赋予手工艺和小规模采矿中的女性权力。",
+        "cta": {
+          "text": "了解更多",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "正规化计划",
+        "description": "支持手工艺和小规模采矿的正规化，以改善工作条件和经济成果。",
+        "cta": {
+          "text": "查看计划",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      },
+      {
+        "title": "市场准入倡议",
+        "description": "为通过手工艺和小规模采矿提取的矿物创造更好的市场准入和公平定价。",
+        "cta": {
+          "text": "探索市场",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      }
+    ]
+  },
+  "page3": {
+    "title": "搜索",
+    "placeholder": "输入搜索词 (如国家、矿物、主题)"
+  },
+  "page4": {
+    "title": "新闻和活动",
+    "description": "我们全球合作伙伴和研究人员的最近添加和更新的数据集。",
+    "items": [
+      {
+        "title": "2023年黄金生产指标",
+        "date": "2024年9月15日"
+      },
+      {
+        "title": "刚果民主共和国采矿性别分析",
+        "date": "2024年9月10日"
+      },
+      {
+        "title": "环境影响评估",
+        "date": "2024年9月5日"
+      },
+      {
+        "title": "经济贡献研究",
+        "date": "2024年8月28日"
+      }
+    ]
+  },
+  "page5": {
+    "title": "为提高透明度协作",
+    "description": "世界银行设想一个手工艺和小规模采矿被视为全球发展重要贡献者的世界。\n\n为了实现这一目标，我们必须共同努力，促进知识和数据的更好共享。\n\n加入我们，承诺提高ASM行业数据质量、可用性和可访问性。",
+    "cta": {
+      "text": "查看数据差距",
+      "to": "/features"
+    },
+    "resources": [
+      {
+        "title": "实现可持续和包容性手工艺和小规模采矿 (ASM)：世界银行参与的更新框架",
+        "date": "2024年9月20日"
+      },
+      {
+        "title": "秘鲁手工艺和小规模铜矿",
+        "date": "2024年7月10日"
+      },
+      {
+        "title": "马达加斯加土地使用权不安全和正规化土地权利：认证计划的性别视角",
+        "date": "2024年7月10日"
+      },
+      {
+        "title": "坦桑尼亚和津巴布韦小规模黄金采矿相关的汞污染",
+        "date": "2024年7月10日"
+      }
+    ]
+  },
+  "page6": {
+    "title": "实施者",
+    "implementers": [
+      {
+        "name": "世界银行",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "联合国开发计划署",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/EGPS-logo-full-color.png"
+      }
+    ]
+  },
+  "page7": {
+    "title": "合作伙伴",
+    "partners": [
+      {
+        "name": "合作伙伴1",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/pact-logo.png"
+      },
+      {
+        "name": "合作伙伴2",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/responsible-minerals-initiative-logo.svg"
+      },
+      {
+        "name": "合作伙伴3",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/OECD_logo_new.svg"
+      },
+      {
+        "name": "合作伙伴4",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/1024px-University_of_Surrey_Logo.svg"
+      },
+      {
+        "name": "合作伙伴5",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/USGS_logo.png"
+      },
+      {
+        "name": "合作伙伴6",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/agc-logo.png"
+      },
+      {
+        "name": "合作伙伴7",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/kobo_logo_dark1.2.png"
+      },
+      {
+        "name": "合作伙伴8",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/grantham-logo.png"
+      }
+    ]
+  },
+  "page8": {
+    "title": "通过最新研究保持更新",
+    "placeholder": "输入您的电子邮件地址",
+    "buttonText": "订阅"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Explora la plataforma {website.name}",
+    "description": "Bienvenido a la plataforma {website.name}, tu centro global para datos, conocimientos y recursos sobre minería artesanal y a pequeña escala (ASM). Desarrollada por el Banco Mundial, {website.name} promueve la transparencia, la colaboración y el intercambio de datos para abordar desafíos como las brechas de datos y la poca visibilidad en el sector ASM. Descubre información sobre crecimiento económico, igualdad de género y prácticas sostenibles, diseñada para investigadores, formuladores de políticas, ONGs, mineros y organizaciones de desarrollo."
+  },
+  "blogs": {
+    "title": "Últimas perspectivas",
+    "posts": [
+      {
+        "title": "Entendiendo los datos globales de ASM con {website.name}",
+        "content": "La plataforma {website.name} reúne datos confiables sobre aproximadamente 44,680,000 personas que trabajan en ASM a nivel mundial, con un 30% de mujeres y un 70% de hombres en más de 80 países. Nuestra función interactiva 'Ver datos globales de ASM' ofrece mapas, gráficos y conjuntos de datos sobre producción, impactos ambientales y contribuciones económicas. Obtenidos de las fuentes secundarias más recientes, esta herramienta se actualiza continuamente para llenar vacíos globales, incluyendo el Mapa de Seguridad Alimentaria de 2022 que destaca los impactos de la pandemia en comunidades ASM.",
+        "author": "Equipo de Investigación del Banco Mundial",
+        "date": "10 de septiembre de 2025",
+        "image": "https://example.com/global-asm-data-map.jpg"
+      },
+      {
+        "title": "Prácticas sostenibles de ASM: Un nuevo marco",
+        "content": "Nuestra última publicación, 'Lograr una minería artesanal y a pequeña escala (ASM) sostenible e inclusiva: Un marco renovado para el compromiso del Banco Mundial', detalla estrategias para la reforma de políticas y la sostenibilidad. Explora cómo {website.name} apoya la igualdad de género (ODS 5) y la gestión ambiental, con recursos como el Informe del Estado del Sector ASM 2023. Accede a PDFs gratuitos y herramientas interactivas para profundizar en tenencia de tierra, contaminación por mercurio y programas de formalización.",
+        "author": "Pauline Mundia",
+        "date": "5 de septiembre de 2025",
+        "image": "https://example.com/sustainable-asm-framework.jpg"
+      },
+      {
+        "title": "Contribuyendo al Catálogo de Proyectos de {website.name}",
+        "content": "El recién lanzado Catálogo de Proyectos en {website.name} permite a los usuarios descubrir iniciativas pasadas y presentes de ASM en todo el mundo. Crea un perfil público para contribuir con datos, ayudando a llenar vacíos en regiones o minerales poco representados. Usa la herramienta 'Ver vacíos en datos' para identificar oportunidades y colabora con socios como Pact y USGS para mejorar la transparencia y la calidad de los datos.",
+        "author": "Equipo de la Comunidad Delve",
+        "date": "1 de septiembre de 2025",
+        "image": "https://example.com/project-catalog.jpg"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mantente informado con {website.name}",
+    "description": "Suscríbete a nuestro boletín para recibir actualizaciones trimestrales sobre datos de ASM, nuevas publicaciones y eventos. Únete a la comunidad {website.name} para contribuir con datos y acceder a recursos exclusivos. Explora gratis la Versión 1 de nuestra plataforma y ayuda a moldear el futuro del desarrollo de ASM.",
+    "linkText": "Suscríbete ahora"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "disclaimer": {
+    "text": "Delveプラットフォームのバージョン1で提示されるデータは二次ソースから取得されており、ASMセクターのデータ可用性を反映しています。すべてのデータ、国、鉱物がまだ表現されていません。ASMのグローバルデータギャップが埋められるにつれて、データは継続的に追加されます。ギャップを埋めるお手伝いをしてください。"
+  },
+  "sections": [
+    {
+      "title": "グローバルデータ",
+      "links": [
+        { "path": "/features", "label": "グローバルデータ" },
+        { "path": "/about", "label": "ディレクトリ" }
+      ]
+    },
+    {
+      "title": "ガバナンス",
+      "links": [
+        { "path": "/donate", "label": "購読" },
+        { "path": "/teams", "label": "パートナー" }
+      ]
+    },
+    {
+      "title": "リソース",
+      "links": [
+        { "path": "/blogs", "label": "リソース" },
+        { "path": "/contact", "label": "連絡先" }
+      ]
+    },
+    {
+      "title": "会社概要",
+      "links": [
+        { "path": "/about", "label": "会社概要" },
+        { "path": "/blogs", "label": "ニュース＆イベント" },
+        { "path": "/privacy", "label": "プライバシーポリシー" }
+      ]
+    }
+  ],
+  "copyright": {
+    "text": "© "
+  }
+}

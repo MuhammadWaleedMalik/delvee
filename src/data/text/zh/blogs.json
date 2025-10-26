@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "探索 {website.name} 平台",
+    "description": "欢迎来到 {website.name} 平台，您的手工与小规模采矿 (ASM) 数据、知识和资源全球中心。由世界银行开发，{website.name} 促进透明度、合作和数据共享，以解决 ASM 部门数据缺口和可见性不足的问题。了解经济增长、性别平等和可持续实践的见解，专为研究人员、政策制定者、非政府组织、矿工和开发组织设计。"
+  },
+  "blogs": {
+    "title": "最新见解",
+    "posts": [
+      {
+        "title": "通过 {website.name} 了解全球 ASM 数据",
+        "content": "{website.name} 平台汇集了全球约 44,680,000 名从事 ASM 的人员数据，女性占 30%，男性占 70%，覆盖 80 多个国家。我们的 '查看全球 ASM 数据' 功能提供地图、图表和数据集，涵盖生产、环境影响和经济贡献。从最新二手数据中获取，此工具不断更新以填补全球缺口，包括 2022 年食品安全地图，突出疫情对 ASM 社区的影响。",
+        "author": "世界银行研究团队",
+        "date": "2025年9月10日",
+        "image": "https://example.com/global-asm-data-map.jpg"
+      },
+      {
+        "title": "可持续 ASM 实践：新框架",
+        "content": "我们的最新出版物 '实现可持续和包容性手工与小规模采矿 (ASM)：世界银行参与的新框架' 概述了政策改革和可持续性的策略。探索 {website.name} 如何支持性别平等 (SDG 5) 和环境管理，提供 2023 年 ASM 部门状态报告等资源。访问免费 PDF 和交互工具，深入了解土地使用权、汞污染和正规化计划。",
+        "author": "Pauline Mundia",
+        "date": "2025年9月5日",
+        "image": "https://example.com/sustainable-asm-framework.jpg"
+      },
+      {
+        "title": "为 {website.name} 项目目录贡献",
+        "content": "{website.name} 上的新项目目录允许用户发现全球过去的和现在的 ASM 举措。创建公共档案以贡献数据，帮助填补欠发达地区或矿物的空缺。使用 '查看数据缺口' 工具识别机会，与 Pact 和 USGS 等合作伙伴合作以提高透明度和数据质量。",
+        "author": "Delve 社区团队",
+        "date": "2025年9月1日",
+        "image": "https://example.com/project-catalog.jpg"
+      }
+    ]
+  },
+  "cta": {
+    "title": "与 {website.name} 保持联系",
+    "description": "订阅我们的新闻简讯，获取 ASM 数据、新出版物和活动的季度更新。加入 {website.name} 社区，贡献数据并访问独家资源。免费探索我们第 1 版的平台，帮助塑造 ASM 发展的未来。",
+    "linkText": "立即订阅"
+  }
+}

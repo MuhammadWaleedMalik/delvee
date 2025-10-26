@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "Sobre Nosotros",
+    "description": "{website.name} surgió como una visión a principios de 2020, liderada por el Banco Mundial para abordar las brechas críticas de datos en la minería artesanal y a pequeña escala (ASM). Fundada con un compromiso de transparencia y colaboración, Delve se propuso revolucionar el acceso a datos globales de ASM. Lo que comenzó como una iniciativa para agregar datos confiables ha evolucionado en una plataforma robusta que utiliza tecnologías avanzadas para empoderar a investigadores, formuladores de políticas y comunidades. Hoy, {website.name} se destaca como un centro global, ofreciendo soluciones seamless para integrar datos de ASM, promover prácticas sostenibles y desbloquear insights para el desarrollo. En {website.name}, estamos impulsados por la búsqueda de transformar a ASM en un contribuyente reconocido al desarrollo global a través de datos accesibles y de alta calidad."
+  },
+  "team": {
+    "members": [
+      {
+        "name": "Equipo del Banco Mundial",
+        "title": "Implementador Principal",
+        "bio": "El Banco Mundial lidera la iniciativa {website.name}, aportando décadas de experiencia en desarrollo global y gestión de datos. Su enfoque está en impulsar la misión de la plataforma para mejorar la accesibilidad de los datos de ASM y apoyar prácticas mineras sostenibles en todo el mundo.",
+        "image": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "Panel de Expertos en ASM",
+        "title": "Asesores Técnicos",
+        "bio": "Compuesto por expertos de socios como Pact, OECD y el Consejo de Oro Artesanal, el Panel de Expertos en ASM asegura la robustez técnica de la plataforma y su alineación con los desafíos globales de ASM, guiando la recolección y análisis de datos.",
+        "image": "https://via.placeholder.com/200x200?text=ASM+Expert+Panel"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Nuestro Viaje",
+        "description": "{website.name} surgió como una visión a principios de 2020, liderada por el Banco Mundial para abordar las brechas críticas de datos en la minería artesanal y a pequeña escala (ASM). Fundada con un compromiso de transparencia y colaboración, Delve se propuso revolucionar el acceso a datos globales de ASM. Lo que comenzó como una iniciativa para agregar datos confiables ha evolucionado en una plataforma robusta que utiliza tecnologías avanzadas para empoderar a investigadores, formuladores de políticas y comunidades. Hoy, {website.name} se destaca como un centro global, ofreciendo soluciones seamless para integrar datos de ASM, promover prácticas sostenibles y desbloquear insights para el desarrollo. En {website.name}, estamos impulsados por la búsqueda de transformar a ASM en un contribuyente reconocido al desarrollo global a través de datos accesibles y de alta calidad.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "Nuestra Misión",
+        "description": "Transformar la comprensión global de ASM mediante el acceso sin igual a datos y recursos a través de tecnología avanzada. En {website.name}, empoderamos a las partes interesadas para convertir los datos de ASM en insights accionables, apoyando la igualdad de género, la sostenibilidad ambiental y el crecimiento económico mientras llenamos las brechas de datos con contribuciones comunitarias.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "Nuestra Visión",
+        "description": "Liderar un futuro donde los datos de ASM impulsen el desarrollo global, creando un mundo donde cada comunidad minera sea visible y apoyada. {website.name} aspira a ser la plataforma definitiva para ecosistemas de ASM inteligentes y en evolución, promoviendo transparencia e innovación en más de 80 países y más allá.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      },
+      {
+        "title": "Innovación Incansable",
+        "description": "Continuamente mejoramos nuestra plataforma con herramientas de vanguardia como funcionalidades de búsqueda, catálogos de proyectos y visualizaciones de datos, adaptándonos a las tendencias emergentes en ciencia de datos y prácticas mineras sostenibles.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "Empoderamiento Centrado en la Comunidad",
+        "description": "Priorizamos entender las necesidades de las comunidades ASM, entregando herramientas para la contribución y acceso a datos que fomentan el crecimiento e inclusión para mineros, investigadores y formuladores de políticas."
+      },
+      {
+        "title": "Evolución Adaptativa",
+        "description": "Nos adaptamos al panorama cambiante de ASM, incorporando nuevas fuentes de datos y tecnologías para abordar desafíos como los impactos de la pandemia y preocupaciones ambientales."
+      },
+      {
+        "title": "Colaboración en el Centro",
+        "description": "Trabajamos con socios globales como Pact, USGS y Guyana Women Miners Org para construir un ecosistema colaborativo, mejorando el intercambio de datos y las iniciativas conjuntas."
+      },
+      {
+        "title": "Sostenibilidad e Impacto",
+        "description": "Nos enfocamos en prácticas de datos sostenibles, apoyando iniciativas de minería verde y minimizando el impacto ambiental a través de políticas informadas y percepciones impulsadas por la comunidad."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mejore los Insights de ASM con {website.name}",
+    "description": "Aproveche nuestra plataforma para acceder a datos globales de ASM, contribuya con sus insights y colabore con expertos, todo mientras promueve prácticas mineras sostenibles. Conéctese hoy para un impacto máximo.",
+    "linkText": "¡Únase a la Comunidad de {website.name} Ahora!"
+  }
+}

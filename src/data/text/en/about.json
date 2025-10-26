@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "title": "About Us",
+    "description": "{website.name} emerged as a vision in early 2020, spearheaded by the World Bank to address the critical data gaps in artisanal and small-scale mining (ASM). Founded with a commitment to transparency and collaboration, Delve set out to revolutionize access to global ASM data. What began as an initiative to aggregate reliable data has evolved into a robust platform leveraging advanced technologies to empower researchers, policymakers, and communities. Today, {website.name} stands as a global hub, offering seamless solutions to integrate ASM data, promote sustainable practices, and unlock insights for development. At {website.name}, we are driven by the pursuit of transforming ASM into a recognized contributor to global development through accessible, high-quality data."
+  },
+  "team": {
+    "members": [
+      {
+        "name": "World Bank Team",
+        "title": "Lead Implementer",
+        "bio": "The World Bank leads the {website.name} initiative, bringing decades of expertise in global development and data management. Their focus is on driving the platform's mission to enhance ASM data accessibility and support sustainable mining practices worldwide.",
+        "image": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "ASM Expert Panel",
+        "title": "Technical Advisors",
+        "bio": "Comprising experts from partners like Pact, OECD, and the Artisanal Gold Council, the ASM Expert Panel ensures the platform's technical robustness and alignment with global ASM challenges, guiding data collection and analysis.",
+        "image": "https://via.placeholder.com/200x200?text=ASM+Expert+Panel"
+      }
+    ]
+  },
+  "values": {
+    "items": [
+      {
+        "title": "Our Journey",
+        "description": "{website.name} emerged as a vision in early 2020, spearheaded by the World Bank to address the critical data gaps in artisanal and small-scale mining (ASM). Founded with a commitment to transparency and collaboration, Delve set out to revolutionize access to global ASM data. What began as an initiative to aggregate reliable data has evolved into a robust platform leveraging advanced technologies to empower researchers, policymakers, and communities. Today, {website.name} stands as a global hub, offering seamless solutions to integrate ASM data, promote sustainable practices, and unlock insights for development. At {website.name}, we are driven by the pursuit of transforming ASM into a recognized contributor to global development through accessible, high-quality data.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "Our Mission",
+        "description": "To transform global understanding of ASM by providing unparalleled access to data and resources through advanced technology. At {website.name}, we empower stakeholders to turn ASM data into actionable insights, supporting gender equality, environmental sustainability, and economic growth while filling data gaps with community contributions.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "Our Vision",
+        "description": "To lead a future where ASM data drives global development, creating a world where every mining community is visible and supported. {website.name} aspires to be the definitive platform for intelligent, evolving ASM ecosystems, promoting transparency and innovation across 80+ countries and beyond.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      },
+      {
+        "title": "Relentless Innovation",
+        "description": "We continuously enhance our platform with cutting-edge tools like search functionalities, project catalogs, and data visualizations, adapting to emerging trends in data science and sustainable mining practices.",
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      }
+    ]
+  },
+  "additional": {
+    "items": [
+      {
+        "title": "Community-Centric Empowerment",
+        "description": "We prioritize understanding ASM community needs, delivering tools for data contribution and access that foster growth and inclusivity for miners, researchers, and policymakers."
+      },
+      {
+        "title": "Adaptive Evolution",
+        "description": "We adapt to the evolving ASM landscape, incorporating new data sources and technologies to address challenges like pandemic impacts and environmental concerns."
+      },
+      {
+        "title": "Collaboration at the Core",
+        "description": "We work with global partners like Pact, USGS, and Guyana Women Miners Org to build a collaborative ecosystem, enhancing data sharing and joint initiatives."
+      },
+      {
+        "title": "Sustainability and Impact",
+        "description": "We focus on sustainable data practices, supporting green mining initiatives and minimizing environmental impact through informed policy and community-driven insights."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Enhance ASM Insights with {website.name}",
+    "description": "Leverage our platform to access global ASM data, contribute your insights, and collaborate with experts, all while promoting sustainable mining practices. Connect today for maximum impact.",
+    "linkText": "Join the {website.name} Community Now!"
+  }
+}

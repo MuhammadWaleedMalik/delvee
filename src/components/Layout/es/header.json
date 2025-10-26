@@ -1,0 +1,34 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "home": "Inicio",
+    "findData": "Encontrar Datos",
+    "people": "Personas",
+    "library": "Biblioteca",
+    "news": "Noticias",
+    "projectCatalog": "Catálogo de Proyectos",
+    "about": "Acerca de",
+    "contribute": "Contribuir",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar Sesión"
+  },
+  "languageSelector": {
+    "heading": "Idiomas",
+    "changeLanguageLabel": "Cambiar Idioma"
+  },
+  "banner": {
+    "text": "El Catálogo de Proyectos está en vivo - Descubre iniciativas pasadas y presentes de ASM",
+    "learnMore": "Aprender Más"
+  },
+  "mainContent": {
+    "platformText": "Una Plataforma Global para Datos de Minería Artesanal y a Pequeña Escala",
+    "learnMore": "Aprender Más",
+    "globalNumber": "Número Global de Personas que Trabajan en ASM*",
+    "seeData": "Ver Datos Globales de ASM",
+    "womenText": "Mujeres que Trabajan en ASM*",
+    "menText": "Hombres que Trabajan en ASM*",
+    "footnote": "*Basado en las fuentes de datos más recientes y confiables dentro de la plataforma.",
+    "learnMoreLink": "Aprender Más"
+  }
+}

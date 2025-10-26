@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Explore the {website.name} Platform",
+    "description": "Welcome to the {website.name} platform, your global hub for artisanal and small-scale mining (ASM) data, knowledge, and resources. Developed by the World Bank, {website.name} promotes transparency, collaboration, and data sharing to address challenges like data gaps and limited visibility in the ASM sector. Discover insights on economic growth, gender equality, and sustainable practices, tailored for researchers, policymakers, NGOs, miners, and development organizations."
+  },
+  "blogs": {
+    "title": "Latest Insights",
+    "posts": [
+      {
+        "title": "Understanding Global ASM Data with {website.name}",
+        "content": "The {website.name} platform aggregates reliable data on approximately 44,680,000 people working in ASM worldwide, with 30% women and 70% men across 80+ countries. Our interactive 'See Global ASM Data' feature offers maps, charts, and datasets on production, environmental impacts, and economic contributions. Sourced from the latest secondary data, this tool is updated continuously to fill global gaps, including the 2022 Food Security Map highlighting pandemic impacts on ASM communities.",
+        "author": "World Bank Research Team",
+        "date": "September 10, 2025",
+        "image": "https://example.com/global-asm-data-map.jpg"
+      },
+      {
+        "title": "Sustainable ASM Practices: A New Framework",
+        "content": "Our latest publication, 'Achieving Sustainable and Inclusive Artisanal and Small-Scale Mining (ASM): A Renewed Framework for World Bank Engagement,' outlines strategies for policy reform and sustainability. Explore how {website.name} supports gender equality (SDG 5) and environmental stewardship, with resources like the 2023 State of the ASM Sector Report. Access free PDFs and interactive tools to dive deeper into land tenure, mercury contamination, and formalization programs.",
+        "author": "Pauline Mundia",
+        "date": "September 5, 2025",
+        "image": "https://example.com/sustainable-asm-framework.jpg"
+      },
+      {
+        "title": "Contributing to {website.name}’s Project Catalog",
+        "content": "The newly launched Project Catalog on {website.name} lets users discover past and present ASM initiatives worldwide. Create a public profile to contribute data, helping fill gaps in underrepresented regions or minerals. Use the 'See Gaps in Data' tool to identify opportunities, and collaborate with partners like Pact and USGS to enhance transparency and data quality.",
+        "author": "Delve Community Team",
+        "date": "September 1, 2025",
+        "image": "https://example.com/project-catalog.jpg"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Stay Informed with {website.name}",
+    "description": "Subscribe to our newsletter for quarterly updates on ASM data, new publications, and events. Join the {website.name} community to contribute data and access exclusive resources. Explore Version 1 of our platform free of charge and help shape the future of ASM development.",
+    "linkText": "Subscribe Now"
+  }
+}

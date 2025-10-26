@@ -1,0 +1,180 @@
+{
+  "page1": {
+    "title": "Una Plataforma Global para Datos de Minería Artesanal y a Pequeña Escala",
+    "stats": [
+      {
+        "number": "44,680,000",
+        "label": "Una Plataforma Global para Datos de Minería Artesanal y a Pequeña Escala",
+        "icon": "👥"
+      },
+      {
+        "number": "30%",
+        "label": "Mujeres Trabajando en ASM*",
+        "icon": "👩"
+      },
+      {
+        "number": "70%",
+        "label": "Hombres Trabajando en ASM*",
+        "icon": "👨"
+      },
+      {
+        "number": "80+",
+        "label": "Países con Datos de ASM",
+        "icon": "🌎"
+      }
+    ],
+    "learnMoreLink": {
+      "text": "Aprender Más",
+      "to": "/learn-more"
+    },
+    "dataSourceNote": "*Basado en las fuentes de datos más recientes y confiables dentro de la plataforma. Aprender Más"
+  },
+  "page2": {
+    "title": "Iniciativas y Proyectos Clave",
+    "slides": [
+      {
+        "title": "Prácticas Mineras Sostenibles",
+        "description": "Promoviendo prácticas mineras responsables y sostenibles ambientalmente en operaciones de minería artesanal y a pequeña escala en todo el mundo.",
+        "cta": {
+          "text": "Explorar Iniciativa",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "Igualdad de Género en la Minería",
+        "description": "Empoderando a las mujeres en la minería artesanal y a pequeña escala a través de educación, capacitación y desarrollo de políticas equitativas.",
+        "cta": {
+          "text": "Aprender Más",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "Programas de Formalización",
+        "description": "Apoyando la formalización de la minería artesanal y a pequeña escala para mejorar las condiciones de trabajo y los resultados económicos.",
+        "cta": {
+          "text": "Ver Programas",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      },
+      {
+        "title": "Iniciativas de Acceso al Mercado",
+        "description": "Creando un mejor acceso al mercado y precios justos para los minerales extraídos mediante minería artesanal y a pequeña escala.",
+        "cta": {
+          "text": "Explorar Mercados",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      }
+    ]
+  },
+  "page3": {
+    "title": "Búsqueda",
+    "placeholder": "Ingrese términos de búsqueda (ej. país, mineral, tema)"
+  },
+  "page4": {
+    "title": "Noticias y Eventos",
+    "description": "Conjuntos de datos recientemente agregados y actualizados por nuestra red global de socios e investigadores.",
+    "items": [
+      {
+        "title": "Métricas de Producción de Oro 2023",
+        "date": "15 de septiembre de 2024"
+      },
+      {
+        "title": "Análisis de Género en la Minería de la RDC",
+        "date": "10 de septiembre de 2024"
+      },
+      {
+        "title": "Evaluación de Impacto Ambiental",
+        "date": "5 de septiembre de 2024"
+      },
+      {
+        "title": "Estudio de Contribución Económica",
+        "date": "28 de agosto de 2024"
+      }
+    ]
+  },
+  "page5": {
+    "title": "Colaborando para Mejorar la Transparencia",
+    "description": "El Banco Mundial envisiona un mundo en el que la minería artesanal y a pequeña escala sea reconocida como un importante contribuyente al desarrollo global.\n\nPara lograr este objetivo, debemos trabajar juntos para promover un mejor intercambio de conocimientos y datos.\n\nÚnase a nosotros en el compromiso de mejorar la calidad, disponibilidad y accesibilidad de los datos en el sector ASM.",
+    "cta": {
+      "text": "Ver Brechas en Datos",
+      "to": "/features"
+    },
+    "resources": [
+      {
+        "title": "Lograr una Minería Artesanal y a Pequeña Escala (ASM) Sostenible e Inclusiva: Un Marco Renovado para el Compromiso del Banco Mundial",
+        "date": "20 de septiembre de 2024"
+      },
+      {
+        "title": "Mineria de Cobre Artesanal y a Pequeña Escala en Perú",
+        "date": "10 de julio de 2024"
+      },
+      {
+        "title": "Inseguridad de la tenencia de la tierra y formalización de derechos de tierra en Madagascar: Una perspectiva de género sobre el programa de certificación",
+        "date": "10 de julio de 2024"
+      },
+      {
+        "title": "Contaminación por mercurio asociada con la minería de oro a pequeña escala en Tanzania y Zimbabue",
+        "date": "10 de julio de 2024"
+      }
+    ]
+  },
+  "page6": {
+    "title": "Implementadores",
+    "implementers": [
+      {
+        "name": "Banco Mundial",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "PNUD",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/EGPS-logo-full-color.png"
+      }
+    ]
+  },
+  "page7": {
+    "title": "Socios",
+    "partners": [
+      {
+        "name": "Socio 1",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/pact-logo.png"
+      },
+      {
+        "name": "Socio 2",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/responsible-minerals-initiative-logo.svg"
+      },
+      {
+        "name": "Socio 3",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/OECD_logo_new.svg"
+      },
+      {
+        "name": "Socio 4",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/1024px-University_of_Surrey_Logo.svg"
+      },
+      {
+        "name": "Socio 5",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/USGS_logo.png"
+      },
+      {
+        "name": "Socio 6",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/agc-logo.png"
+      },
+      {
+        "name": "Socio 7",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/kobo_logo_dark1.2.png"
+      },
+      {
+        "name": "Socio 8",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/grantham-logo.png"
+      }
+    ]
+  },
+  "page8": {
+    "title": "Manténgase Actualizado con Nuestra Última Investigación",
+    "placeholder": "Ingrese su dirección de correo electrónico",
+    "buttonText": "Suscribirse"
+  }
+}

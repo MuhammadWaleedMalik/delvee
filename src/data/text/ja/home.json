@@ -1,0 +1,180 @@
+{
+  "page1": {
+    "title": "職人および小規模鉱業データのグローバルプラットフォーム",
+    "stats": [
+      {
+        "number": "44,680,000",
+        "label": "職人および小規模鉱業データのグローバルプラットフォーム",
+        "icon": "👥"
+      },
+      {
+        "number": "30%",
+        "label": "ASMで働く女性*",
+        "icon": "👩"
+      },
+      {
+        "number": "70%",
+        "label": "ASMで働く男性*",
+        "icon": "👨"
+      },
+      {
+        "number": "80+",
+        "label": "ASMデータの国",
+        "icon": "🌎"
+      }
+    ],
+    "learnMoreLink": {
+      "text": "さらに学ぶ",
+      "to": "/learn-more"
+    },
+    "dataSourceNote": "*プラットフォーム内の最新かつ信頼できるデータソースに基づく。詳細はこちら"
+  },
+  "page2": {
+    "title": "主要なイニシアチブとプロジェクト",
+    "slides": [
+      {
+        "title": "持続可能な鉱業慣行",
+        "description": "世界中の職人および小規模鉱業作業における環境に配慮し、持続可能な鉱業慣行を促進します。",
+        "cta": {
+          "text": "イニシアチブを探る",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/COVER-PAGE-Renewed-Framework-ASM.jpg"
+      },
+      {
+        "title": "鉱業におけるジェンダー平等",
+        "description": "教育、訓練、公平な政策開発を通じて、職人および小規模鉱業における女性のエンパワーメントを支援します。",
+        "cta": {
+          "text": "さらに学ぶ",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/delve-hero2_200624_195758.jpg"
+      },
+      {
+        "title": "正式化プログラム",
+        "description": "職人および小規模鉱業の正式化を支援し、労働条件と経済的成果を改善します。",
+        "cta": {
+          "text": "プログラムを見る",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Pauline-Mundia-ASM-challenges_2024-10-18-132945_mjbh.jpg"
+      },
+      {
+        "title": "市場アクセスイニシアチブ",
+        "description": "職人および小規模鉱業で採取された鉱物に対するより良い市場アクセスと公正な価格設定を作成します。",
+        "cta": {
+          "text": "市場を探る",
+          "to": "/features"
+        },
+        "image": "https://www.delvedatabase.org/uploads/content-blocks/Cover-SoS.PNG"
+      }
+    ]
+  },
+  "page3": {
+    "title": "検索",
+    "placeholder": "検索語を入力 (例: 国、鉱物、トピック)"
+  },
+  "page4": {
+    "title": "ニュースとイベント",
+    "description": "私たちのグローバルなパートナーと研究者からの最近追加および更新されたデータセット。",
+    "items": [
+      {
+        "title": "2023年ゴールド生産指標",
+        "date": "2024年9月15日"
+      },
+      {
+        "title": "コンゴ民主共和国鉱業のジェンダー分析",
+        "date": "2024年9月10日"
+      },
+      {
+        "title": "環境影響評価",
+        "date": "2024年9月5日"
+      },
+      {
+        "title": "経済的貢献研究",
+        "date": "2024年8月28日"
+      }
+    ]
+  },
+  "page5": {
+    "title": "透明性の向上のための協力",
+    "description": "世界銀行は、職人および小規模鉱業がグローバル開発に重要な貢献者として認識される世界を envision しています。\n\nこの目標を達成するためには、知識とデータのより良い共有を促進するために協力する必要があります。\n\nASMセクターのデータ品質、可用性、およびアクセシビリティを向上させる取り組みに私たちと一緒に参加してください。",
+    "cta": {
+      "text": "データギャップを見る",
+      "to": "/features"
+    },
+    "resources": [
+      {
+        "title": "持続可能かつ包括的な職人および小規模鉱業 (ASM) の実現：世界銀行の新たな関与枠組み",
+        "date": "2024年9月20日"
+      },
+      {
+        "title": "ペルーの職人および小規模銅鉱業",
+        "date": "2024年7月10日"
+      },
+      {
+        "title": "マダガスカルの土地所有権の不安定さと土地権利の正式化：認証プログラムのジェンダー視点",
+        "date": "2024年7月10日"
+      },
+      {
+        "title": "タンザニアとジンバブエの小規模ゴールド鉱業に関連する水銀汚染",
+        "date": "2024年7月10日"
+      }
+    ]
+  },
+  "page6": {
+    "title": "実施者",
+    "implementers": [
+      {
+        "name": "世界銀行",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/world-bank-logo.svg"
+      },
+      {
+        "name": "国連開発計画",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/EGPS-logo-full-color.png"
+      }
+    ]
+  },
+  "page7": {
+    "title": "パートナー",
+    "partners": [
+      {
+        "name": "パートナー1",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/pact-logo.png"
+      },
+      {
+        "name": "パートナー2",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/responsible-minerals-initiative-logo.svg"
+      },
+      {
+        "name": "パートナー3",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/OECD_logo_new.svg"
+      },
+      {
+        "name": "パートナー4",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/1024px-University_of_Surrey_Logo.svg"
+      },
+      {
+        "name": "パートナー5",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/USGS_logo.png"
+      },
+      {
+        "name": "パートナー6",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/agc-logo.png"
+      },
+      {
+        "name": "パートナー7",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/kobo_logo_dark1.2.png"
+      },
+      {
+        "name": "パートナー8",
+        "logo": "https://www.delvedatabase.org/uploads/partners/_610xAUTO_crop_center-center_70_none/grantham-logo.png"
+      }
+    ]
+  },
+  "page8": {
+    "title": "最新の研究で最新情報を維持",
+    "placeholder": "あなたのメールアドレスを入力",
+    "buttonText": "購読"
+  }
+}
